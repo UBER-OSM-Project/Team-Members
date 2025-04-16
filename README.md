@@ -6,7 +6,7 @@ Hello OSM mappers,
 
 We at Uber are planning to explore and contribute to OpenStreetMap in various places across the globe.
 
-We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a team of individuals based in India and USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We have shared the profiles of our editors on [Data Team page](https://github.com/Uber-OSM/DataTeam). 
+We do not plan to make any large-scale, machine-generated edits for this project. All edits will be made by a team of individuals based in India and USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. We have shared the profiles of our editors on [Data Team page](https://github.com/UBER-OSM-Project/Team-Members/wiki/OSM-TEAM-MEMBERS). 
 
 The edits will be made according to the Organized editing best practices and country-specific OSM policies. In addition to that, Uber editors are also committed to improve their edits based on feedback from the community and by leveraging local knowledge to help identify data issues and resolution. For this project, our team intends to focus on adding and modifying the following OSM features:
 
