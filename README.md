@@ -37,4 +37,4 @@ The team will use the change-set comments as per the [OSM Changeset Guidelines](
 All changes will undergo a verification process before submission.
 
 # Team
-[Here](https://github.com/Uber-OSM/DataTeam) the link to our data team.
+[Here](https://github.com/UBER-OSM-Project/Team-Members/wiki/OSM-TEAM-MEMBERS) the link to our data team.
